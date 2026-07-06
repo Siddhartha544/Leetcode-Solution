@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
