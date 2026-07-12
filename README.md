@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0018-4sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
