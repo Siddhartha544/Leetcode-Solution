@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
