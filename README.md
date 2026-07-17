@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
