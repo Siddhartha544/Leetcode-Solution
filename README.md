@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 ## Two Pointers
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
