@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0071-simplify-path) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
