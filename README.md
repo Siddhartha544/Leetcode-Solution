@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0045-jump-game-ii) |
+| [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
