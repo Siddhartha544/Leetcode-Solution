@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 ## Bit Manipulation
 |  |
