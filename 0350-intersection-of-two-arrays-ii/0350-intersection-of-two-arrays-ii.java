@@ -1,5 +1,8 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
+        
+        // create a hashmap to store the numbers and there frequencies.
+
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for(int num: nums1){
