@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0057-insert-interval) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
