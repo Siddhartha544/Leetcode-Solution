@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 ## Algorithm X
 |  |
