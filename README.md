@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0062-unique-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
