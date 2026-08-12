@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
