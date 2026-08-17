@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
