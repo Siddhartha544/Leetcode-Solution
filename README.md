@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0133-clone-graph) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0133-clone-graph) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -302,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
