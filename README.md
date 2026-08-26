@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -313,15 +314,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
