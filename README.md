@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0097-interleaving-string) |
 ## Sorting
 |  |
@@ -320,12 +322,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0133-clone-graph) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
