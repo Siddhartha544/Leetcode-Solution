@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
