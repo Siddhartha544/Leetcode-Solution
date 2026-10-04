@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0120-triangle) |
+| [0137-single-number-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 ## Two Pointers
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
