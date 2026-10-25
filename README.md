@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 ## Two Pointers
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -432,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Siddhartha544/Leetcode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
